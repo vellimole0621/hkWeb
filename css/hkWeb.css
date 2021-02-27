@@ -15,3 +15,8 @@ h1 {
 .searchForm {
   margin: 10px;
 }
+
+.doItVideo {
+  width: 50%;
+  justify-content: center;
+}
